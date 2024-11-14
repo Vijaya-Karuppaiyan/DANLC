@@ -1,4 +1,4 @@
-# HR HC-Dashboard
+# HR HC Analysis Dashboard
 
 ## Problem Statement
 
