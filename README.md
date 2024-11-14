@@ -97,6 +97,10 @@ Final Notes
 Refresh Date: The RefreshDate measure will update automatically whenever the dataset is refreshed in Power BI.
 This dashboard provides a dynamic view of HR headcount metrics, allowing users to filter data and gain insights into the organization’s workforce distribution.
 
+HR HC Analysis Dashboard
+<img width="599" alt="HR HC Analysis Dashboard" src="https://github.com/user-attachments/assets/9e24b885-4bbb-4b9b-89da-ae1233569884">
+
+
 
  
  
